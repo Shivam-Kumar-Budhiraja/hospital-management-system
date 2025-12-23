@@ -31,9 +31,11 @@ This project was created as a learning exercise to understand:
 ## Screenshots
 
 - Main Application Window
+  
   ![Main Window](screenshots/main_window.png)
 
 - Doctor Entry Form
+  
   ![Add Doctor](screenshots/add_doctor.png)
 
 
