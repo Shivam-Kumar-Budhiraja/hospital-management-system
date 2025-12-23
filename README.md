@@ -28,6 +28,15 @@ This project was created as a learning exercise to understand:
 3. Install dependency: pip install pymysql
 4. Run the program: python main.py
 
+## Screenshots
+
+- Main Application Window
+  ![Main Window](screenshots/main_window.png)
+
+- Doctor Entry Form
+  ![Add Doctor](screenshots/add_doctor.png)
+
+
 ## Project Type
 - Academic Project
 
